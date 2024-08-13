@@ -104,7 +104,9 @@ output_file = "Output.png"
 combine_images(screenshot_files, output_file)
 
 to_addresses = [
-    "guilherme.bueno@grupofarina.com.br"
+    "lista de e-mails a enviar",
+    "e-mail2",
+    "E-mail3"
 ]
 
 html_body = """
